@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Sreesanjay</h1>
 <h3 align="center">Full stack Developer</h3>
 <img align="right" alt="Busy with error!" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
