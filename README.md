@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sreesanjay</h1>
 <h3 align="center">Full stack Developer</h3>
 <div style = "display:flex; margin-bottom:50px;">
+<img align="right" alt="Busy with error!" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,7 +69,6 @@
 </a>
 </div>
 </div>
-<img align="right" alt="Busy with error!" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
