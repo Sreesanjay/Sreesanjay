@@ -44,4 +44,6 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50"  height="50"/> </a> </p>
 
+  ![Sreesanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreesanjay&show_icons=true&theme=radical)
+
 
